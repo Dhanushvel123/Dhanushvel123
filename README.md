@@ -1,4 +1,4 @@
-<img src="web developer.gif" alt="MasterHead" width="1020" height="450">
+<img src="web developer.gif" alt="MasterHead" width="1020" height="500">
 
 <h1 align="center">Hi 👋, I'm Dhanushvel S</h1>
 <h3 align="center">Full-stack developer</h3>
