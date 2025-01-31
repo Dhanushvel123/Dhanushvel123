@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @Dhanushvel123
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning MERN Stack
-- 🌄 I’m passionate about creating visually good and informative websites
-- 📫 I'm Living  @nkl
-- 📧 Reach me at vdhanush480@gmail.com
-- ⚡ Fun fact: ...
+<img src="web developer.gif" alt="MasterHead" width="1020" height="450">
 
-<!---
-Dhanushvel123/Dhanushvel123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Dhanushvel S</h1>
+<h3 align="center">Full-stack developer</h3>
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Dhanushvel123](https://github.com/Dhanushvel123)
+
+- 💬 Ask me about **HTML CSS,BOOTSTRAP,JAVASCRIPT AND REACT**
+
+- 📫 How to reach me **vdhanush480@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Dhanushvel123/Portfolio/blob/main/Dhanushvel%20S.pdf](https://github.com/Dhanushvel123/Portfolio/blob/main/Dhanushvel%20S.pdf)
+
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dhanushvel s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanushvel s" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanushvel123&show_icons=true&locale=en&layout=compact" alt="dhanushvel123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushvel123&show_icons=true&locale=en" alt="dhanushvel123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushvel123&" alt="dhanushvel123" /></p>
