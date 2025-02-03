@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Dhanushvel S</h1>
 <h3 align="center">Full-stack developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushvel123" alt="dhanushvel123" /></a> </p>
+
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhanushvel123](https://github.com/Dhanushvel123)
@@ -28,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushvel123&show_icons=true&locale=en" alt="dhanushvel123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushvel123&" alt="dhanushvel123" /></p>
+
