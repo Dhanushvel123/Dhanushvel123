@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vdhanush480@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Dhanushvel123/Portfolio/blob/main/Dhanushvel%20S.pdf](https://github.com/Dhanushvel123/Portfolio/blob/main/Dhanushvel%20S.pdf)
+- 📄 Know about my experiences https://github.com/Dhanushvel123/Portfolio/blob/main/S.%20DHANUSHVEL.pdf
 
 - ⚡ Fun fact **I am Funny**
 
