@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences[https://github.com/Dhanushvel123/Portfolio/blob/main/S.%20DHANUSHVEL.pdf](https://github.com/Dhanushvel123/Portfolio/blob/main/S.%20DHANUSHVEL.pdf)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
